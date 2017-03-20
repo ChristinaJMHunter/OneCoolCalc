@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\chunt\AndroidStudioProjects\OneCoolCalc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\chunt\AndroidStudioProjects\OneCoolCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_bd9fcb427e190219b9a28c35acd26557abdb2a2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chunt\AndroidStudioProjects\OneCoolCalc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\chunt\AndroidStudioProjects\OneCoolCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_c0bc7f76847dd41280719740e967ebb65bb7502c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chunt\AndroidStudioProjects\OneCoolCalc\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\chunt\AndroidStudioProjects\OneCoolCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_aa4ae63f5ba450a70646c9cbba8ceefac6cfe70d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chunt\AndroidStudioProjects\OneCoolCalc\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="80f5b99c0e3946f68ce8281ee2c4856ec8b4f358">
+        <dex dex="C:\Users\chunt\AndroidStudioProjects\OneCoolCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0a2b2a6d630fe337ed7aba7e3c4f4e514d142fdc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chunt\AndroidStudioProjects\OneCoolCalc\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\chunt\AndroidStudioProjects\OneCoolCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_2479bc62f0a11b8702de86600fea3c73f3e741bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chunt\AndroidStudioProjects\OneCoolCalc\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\chunt\AndroidStudioProjects\OneCoolCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e560b2ecf7e7e7435589df01255bc48eeb3b715a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chunt\AndroidStudioProjects\OneCoolCalc\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\chunt\AndroidStudioProjects\OneCoolCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b6182720c65919ce760e7d8bac088e3f89ad5e89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chunt\AndroidStudioProjects\OneCoolCalc\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\chunt\AndroidStudioProjects\OneCoolCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_b08677cd9a4794fb0bfc009e8c17f7bf49b37a7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chunt\AndroidStudioProjects\OneCoolCalc\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\chunt\AndroidStudioProjects\OneCoolCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_ded103b656975cd4caa9485c36914f9e613e6e7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chunt\AndroidStudioProjects\OneCoolCalc\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\chunt\AndroidStudioProjects\OneCoolCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_0bc549646269e5793d692237e2b5031de324370a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chunt\AndroidStudioProjects\OneCoolCalc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\chunt\AndroidStudioProjects\OneCoolCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_8742c3f708f97e2dba472675bbf7d373d66ba00c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chunt\AndroidStudioProjects\OneCoolCalc\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="88d4ca49db2ef1fb2f187ecbce6853145c8d0410">
+        <dex dex="C:\Users\chunt\AndroidStudioProjects\OneCoolCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_36d8a1c63c078da54f3380b34ea4711e8f0dcf5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chunt\AndroidStudioProjects\OneCoolCalc\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\chunt\AndroidStudioProjects\OneCoolCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_7ab9f475807222d4cbabf4cab0e5740ca254961a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chunt\AndroidStudioProjects\OneCoolCalc\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\chunt\AndroidStudioProjects\OneCoolCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_bd64d87582ca21559165d93f1b1bed41ca544174\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chunt\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\chunt\AndroidStudioProjects\OneCoolCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_af2edcc51e1203f495948918b982719411cd4f4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chunt\AndroidStudioProjects\OneCoolCalc\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\chunt\AndroidStudioProjects\OneCoolCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_00908fe284c274d1d76e3bb0401569c4bb09ba68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chunt\AndroidStudioProjects\OneCoolCalc\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\chunt\AndroidStudioProjects\OneCoolCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_c876ea38cfdcecb2b45fa4b5c136a4a84589ea50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chunt\AndroidStudioProjects\OneCoolCalc\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\chunt\AndroidStudioProjects\OneCoolCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_db0d5f18112901394d55081f5c5478177222b210\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chunt\AndroidStudioProjects\OneCoolCalc\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\chunt\AndroidStudioProjects\OneCoolCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_bf4915c73fdad20238a8195a990a34e35496c1be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chunt\AndroidStudioProjects\OneCoolCalc\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\chunt\AndroidStudioProjects\OneCoolCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_b8f12efca746b563c379fd086c9fb6d1d976edee\classes.dex" />
+    </item>
+
+</items>
